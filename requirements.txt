@@ -3,5 +3,4 @@ pandas
 json
 requests
 websocket
-threading
 streamlit-autorefresh
