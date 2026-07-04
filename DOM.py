@@ -294,7 +294,7 @@ for pair in selected_watchlist:
 
 # --- MASTER BRAND HEADING ---
 st.markdown('<div class="brand-header">THEFXEMPIRE TERMINAL</div>', unsafe_allow_html=True)
-st.markdown('<div class="brand-subheader">REAL-TIME INSTITUTIONAL LIQUIDITY MATRIX // RESPONSIVE SKY CYAN VIEW</div>', unsafe_allow_html=True)
+st.markdown('<div class="brand-subheader">REAL-TIME INSTITUTIONAL LIQUIDITY MATRIX</div>', unsafe_allow_html=True)
 
 # --- PANEL DISPLAY BUILD (RESPONSIVE GRID) ---
 left_panel, right_panel = st.columns([1.2, 1], gap="large")
